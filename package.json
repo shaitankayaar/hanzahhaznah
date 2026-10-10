@@ -1,0 +1,12 @@
+{
+  "name": "network-hub",
+  "version": "1.0.0",
+  "description": "Product-based network marketing platform: members, referral tree, orders, commissions, wallet, withdrawals, admin panel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "test": "node --disable-warning=ExperimentalWarning test.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "dependencies": {}
+}
